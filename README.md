@@ -1,0 +1,2 @@
+# Comments on: Machine Translation: Mining Text for Social Theory
+[Evans, James and Pedro Aceves.  2016. “Machine Translation: Mining Text for Social Theory”. Annual Review of Sociology 42:21-50. DOI: 10.1146/annurev-soc-081715-074206](http://www.annualreviews.org/doi/pdf/10.1146/annurev-soc-081715-074206)
